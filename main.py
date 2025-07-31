@@ -7,7 +7,7 @@ import json
 from wsl_etkilesim_guvenli_module import WSLInteractor
 import time
 
-import API_KEY  # API anahtarını içe aktar
+import API_KEY  # gizlilik için
 
 class WSLAI:
     """
